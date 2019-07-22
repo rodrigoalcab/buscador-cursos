@@ -38,4 +38,6 @@
         "check": "Roda o codesniffer em busca de erros nos padrões de codificação"
     },
     "license": "GPL-3.0"
+
+
 }
