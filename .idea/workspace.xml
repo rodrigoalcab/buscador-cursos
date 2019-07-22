@@ -18,12 +18,12 @@
     </execution>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="39" column="24" lean-forward="true" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+            <state relative-caret-position="418">
+              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
             </state>
           </provider>
         </entry>
@@ -123,6 +123,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -152,18 +153,19 @@
       <workItem from="1563577391919" duration="2332000" />
       <workItem from="1563678493629" duration="1174000" />
       <workItem from="1563756064507" duration="3350000" />
-      <workItem from="1563762849926" duration="892000" />
+      <workItem from="1563762849926" duration="992000" />
+      <workItem from="1563833785479" duration="222000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13390000" />
+    <option name="totallyTimeSpent" value="13712000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -221,8 +223,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="39" column="24" lean-forward="true" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+        <state relative-caret-position="418">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
         </state>
       </provider>
     </entry>
