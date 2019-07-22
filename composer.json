@@ -1,0 +1,40 @@
+{
+    "name": "rodrigoalcab/buscador-cursos",
+    "description": "Projeto que busca os cursos no site da Alura",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Rodrigo Cabral",
+            "email": "rodrigoalcab@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "symfony/dom-crawler": "^4.2",
+        "symfony/css-selector": "^4.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Alura\\BuscadorDeCursos\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.2",
+        "squizlabs/php_codesniffer": "^3.4"
+    },
+    "scripts": {
+        "cs": "phpcs --standard=PSR12 src/",
+        "dir": "dir",
+        "calc": "calc",
+        "check": [
+            "@cs",
+            "@calc"
+        ],
+        "post-update-cmd": [
+            "@check"
+        ]
+    },
+    "scripts-descriptions": {
+        "check": "Roda o codesniffer em busca de erros nos padrões de codificação"
+    }
+}
